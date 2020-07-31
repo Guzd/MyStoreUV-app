@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "85f48f680de8138e98da84aa87d9466a",
+    "revision": "0f0964a30728530845e365520c7624d3",
     "url": "/MyStoreUV-app/index.html"
   },
   {
