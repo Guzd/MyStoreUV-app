@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/MyStoreUV-app/static/css/main.cc869ada.chunk.css",
+    "main.js": "/MyStoreUV-app/static/js/main.59010474.chunk.js",
+    "main.js.map": "/MyStoreUV-app/static/js/main.59010474.chunk.js.map",
+    "runtime-main.js": "/MyStoreUV-app/static/js/runtime-main.7c4f7303.js",
+    "runtime-main.js.map": "/MyStoreUV-app/static/js/runtime-main.7c4f7303.js.map",
+    "static/js/2.535fab5e.chunk.js": "/MyStoreUV-app/static/js/2.535fab5e.chunk.js",
+    "static/js/2.535fab5e.chunk.js.map": "/MyStoreUV-app/static/js/2.535fab5e.chunk.js.map",
+    "index.html": "/MyStoreUV-app/index.html",
+    "precache-manifest.1326dd03aef8a1b6d109d6c1e6f3c99e.js": "/MyStoreUV-app/precache-manifest.1326dd03aef8a1b6d109d6c1e6f3c99e.js",
+    "service-worker.js": "/MyStoreUV-app/service-worker.js",
+    "static/css/main.cc869ada.chunk.css.map": "/MyStoreUV-app/static/css/main.cc869ada.chunk.css.map",
+    "static/js/2.535fab5e.chunk.js.LICENSE.txt": "/MyStoreUV-app/static/js/2.535fab5e.chunk.js.LICENSE.txt",
+    "static/media/avatarDG.png": "/MyStoreUV-app/static/media/avatarDG.960f20d9.png",
+    "static/media/avatarGabriel.png": "/MyStoreUV-app/static/media/avatarGabriel.d37e446b.png",
+    "static/media/avatarMarta.png": "/MyStoreUV-app/static/media/avatarMarta.6dbc38ef.png",
+    "static/media/banner.jpg": "/MyStoreUV-app/static/media/banner.6ada6a97.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c4f7303.js",
+    "static/js/2.535fab5e.chunk.js",
+    "static/css/main.cc869ada.chunk.css",
+    "static/js/main.59010474.chunk.js"
+  ]
+}
