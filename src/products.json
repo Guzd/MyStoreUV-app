@@ -1,0 +1,90 @@
+{
+ "productos": {
+  "Panaderia" : [
+   {
+    "title": "Bollo",
+    "img":
+     "https://images.unsplash.com/photo-1580822636368-fa5aab85825a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80",
+    "portion": "4pz",
+    "price": 45.00
+   },
+   {
+    "title": "Baguette",
+    "img":
+     "https://images.unsplash.com/photo-1524523382422-2d0c2665021f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=734&q=80",
+    "portion": "1pz",
+    "price": 38.00
+   },
+   {
+    "title": "Croissant",
+    "img":
+     "https://images.unsplash.com/photo-1588537708942-2d6157b36b14?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80",
+    "portion": "4pz",
+    "price": 52.00
+   },
+   {
+    "title": "Panquecito",
+    "img":
+     "https://images.unsplash.com/photo-1591204959490-40014e09bb46?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+    "portion": "6pz",
+    "price": 80.00
+   }
+  ],
+  "Pasteles" : [
+   {
+    "title": "Herencia Americana Chocolate",
+    "img":
+     "https://images.unsplash.com/photo-1588195538326-c5b1e9f80a1b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+    "portion": "1kg",
+    "price": 320.00
+   },
+   {
+    "title": "Cama de Moras",
+    "img":
+     "https://images.unsplash.com/photo-1559620192-032c4bc4674e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+    "portion": "1kg",
+    "price": 410.00
+   },
+   {
+    "title": "Lienzo de Oreo",
+    "img":
+     "https://images.unsplash.com/photo-1557925923-cd4648e211a0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+    "portion": "1kg",
+    "price": 350.00
+   },
+   {
+    "title": "M&M party",
+    "img":
+     "https://images.unsplash.com/photo-1557979619-445218f326b9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+    "portion": "1kg",
+    "price": 450.00
+   }
+  ],
+  "Galletas": [
+   {
+    "title": "Chispas de hocolate",
+    "img":
+     "https://images.unsplash.com/photo-1588195538326-c5b1e9f80a1b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+    "portion": "1kg",
+    "price": 320.00
+   }
+  ],
+  "Postres" : [
+   {
+    "title": "Macaroons",
+    "img":
+     "https://images.unsplash.com/photo-1548848221-0c2e497ed557?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+    "portion": "1kg",
+    "price": 320.00
+   },
+   {
+    "title": "Donas",
+    "img":
+     "https://images.unsplash.com/photo-1509474520651-53cf6a80536f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+    "portion": "1 docena",
+    "price": 420.00
+   }
+  ]
+ }
+
+}

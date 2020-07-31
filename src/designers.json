@@ -1,0 +1,22 @@
+{
+ "designers": [
+   {
+     "name": "Gabriel Gonzalez Luna",
+     "profile": "avatarGabriel.png",
+     "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia est",
+     "position": "Diseñador UX"
+   },
+   {
+    "name": "Diana Gutiérrez Zavaleta",
+    "profile": "avatarDG.png",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia est",
+    "position": "Frontend developer"
+   },
+   {
+    "name": "Marta Callejas Rendón",
+    "profile": "avatarMarta.png",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia est",
+    "position": "Backend developer"
+   }
+ ]
+}
